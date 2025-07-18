@@ -147,3 +147,4 @@ The frontend setup is quite easy, unlike backend setup as it does not require an
         </div>
     </td>
 </table>
+"# Smart-Accident-Detection-Network" 
