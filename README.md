@@ -42,8 +42,8 @@ A **Deep Learning-based Accident Detection System** that automatically detects r
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/ebraj/Accident-Detection-Web-App.git
-cd Accident-Detection-Web-App
+
+cd Smart-Accident-Detection-Network
 ```
 
 ---
@@ -60,6 +60,7 @@ cd server
   ```bash
   python -m venv venv
   venv\Scripts\activate
+
   ```
 - **MacOS/Linux**
   ```bash
