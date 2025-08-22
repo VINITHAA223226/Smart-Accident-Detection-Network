@@ -9,17 +9,6 @@ A Deep Learning-based Accident Detection System that automatically detects road 
 - Camera or video-based input analysis
 - Lightweight and easy to deploy
 
-## 📁 Project Structure
-
-Smart-Accident-Detection-Network/
-│
-├── model/ # Pre-trained deep learning models
-├── data/ # Sample images/videos or datasets
-├── server/ # Backend code (Flask or FastAPI)
-├── client/ # (Optional) Frontend web app
-├── utils/ # Utility scripts
-├── requirements.txt # Python dependencies
-└── README.md
 
 🎯 Usage
 Add your trained model files to the model/ directory.
